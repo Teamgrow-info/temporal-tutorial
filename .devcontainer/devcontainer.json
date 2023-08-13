@@ -1,7 +1,6 @@
 {
     "image": "mcr.microsoft.com/devcontainers/python:3.11",
     "features": {
-        "ghcr.io/devcontainers-contrib/features/poetry:2": {},
-        "ghcr.io/Teamgrow-info/features/temporal:0": {}
+        "ghcr.io/devcontainers-contrib/features/poetry:2": {}
     }
 }
